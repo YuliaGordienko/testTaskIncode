@@ -20,3 +20,6 @@ The following REST API endpoints should be exposed:
 - regular user can see only herself
 
 4. Change user's boss (only boss can do that and only for her subordinates)
+
+DB_HOST=mongodb+srv://Yulia:uHQWXzuRSmt5VPR8@cluster0.v6mmh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+SECRET_KEY=ailuyokneidrog
